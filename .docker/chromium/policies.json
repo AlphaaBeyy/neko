@@ -21,16 +21,24 @@
   "BookmarkBarEnabled": false,
   "PasswordManagerEnabled": false,
   "URLBlacklist": [
+      "xvideos.com",
+      "pornhub.com",
+      "playboy.com",
+      "kickass.to",
+      "Redtube.com",
+      "Limewire.com",
+      "Ad.yieldmanager.com",
+      "Doubleclick.net",
+      "dizipal.net",
+      "sinefy.com",
       "file://*",
       "chrome://policy"
   ],
   "ExtensionInstallForcelist": [
-      "cjpalhdlnbpafiamejdnhcphjbkeiagm;https://clients2.google.com/service/update2/crx",
-      "fjoaledfpmneenckfbpdfhkmimnjocfa;https://clients2.google.com/service/update2/crx"
+      "cjpalhdlnbpafiamejdnhcphjbkeiagm;https://clients2.google.com/service/update2/crx"
   ],
   "ExtensionInstallWhitelist": [
-      "cjpalhdlnbpafiamejdnhcphjbkeiagm",
-      "fjoaledfpmneenckfbpdfhkmimnjocfa"
+      "cjpalhdlnbpafiamejdnhcphjbkeiagm"
   ],
   "ExtensionInstallBlacklist": [
       "*"
